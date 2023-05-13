@@ -1,0 +1,26 @@
+.carousel-inner {
+    max-height: 500px; /* Ajuste a altura máxima conforme necessário */
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Cor de fundo das setas de controle */
+  }
+  
+  .carousel-inner img {
+    border-radius: 5px; /* Adiciona bordas arredondadas às imagens */
+    margin: 10px; /* Ajusta o espaçamento entre as imagens */
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    width: 50px; /* Ajusta a largura das setas de controle */
+    height: 50px; /* Ajusta a altura das setas de controle */
+    background-color: rgba(0, 0, 0, 0.5); /* Cor de fundo das setas de controle /
+    border-radius: 50%; / Adiciona bordas arredondadas às setas de controle */
+    }
+    
+    .carousel-item .row {
+    margin-top: 10px;
+    }
+  
